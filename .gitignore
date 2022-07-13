@@ -3,13 +3,13 @@
 /.allure
 /allure-results
 /ExportData
-/ExtentReports
+ExtentReports
 ExtentReports.zip
 /logs
 /target
 /test-output
 /Reports
-/CucumberReports
+CucumberReports
 HDSD.txt
 *.png
 
