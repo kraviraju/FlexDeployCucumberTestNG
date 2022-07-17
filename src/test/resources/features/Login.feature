@@ -10,8 +10,8 @@ Feature: Login Action
     Then The user redirect to Dashboard page
     And Logout
     Examples:
-      | username | password |
-      | sfuser   | Welcome1$   |
+      | username     | password |
+      | automation   | Welcome1$   |
       
   @invalidlogin
   Scenario Outline: Login with Invalid Credentials 
